@@ -1,0 +1,21 @@
+{
+  "name": "Secret Heartbeat",
+  "short_name": "Heartbeat",
+  "description": "A secret chat app for you and your special one.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#D8BFD8",
+  "icons": [
+    {
+      "src": "/icons/heart-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/heart-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
